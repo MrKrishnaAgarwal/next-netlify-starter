@@ -10,18 +10,15 @@ export default function Home() {
         <link rel="icon" href="https://synramtechnology.com/studentstreet/public/images/logo.png" />
       </Head>
         <img src="https://synramtechnology.com/studentstreet/public/images/logo.png" alt="Student Street Logo" className="logo" />
-        <h1 className="title">
+        <h2 className="title">
             Welcome to <a href="https://studentstreet.in">Student Street</a>
-        </h1>
+        </h2>
         <p className="description">
             Student Street is your own platform to customize your career & contribute for the benefit of others.
         </p>
-        <div className="grid">
-            <a href="https://studentstreet.in" className="card">
-                <h3>Student Street &rarr;</h3>
-                <p> Learn more about Student Street</p>
-            </a>
-        </div>
+        <h3 className="title2">
+            Coming Soon!
+        </h3>
 
         <style jsx>{`
             .container {
@@ -33,7 +30,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 1em;
+                height: 100em;
             }
             .main {
                 padding: 5rem 0;
@@ -84,15 +81,6 @@ export default function Home() {
                 padding: 0.75rem;
                 font-size: 1.1rem;
                 font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-            }
-
-            .grid {
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-wrap: wrap;
-                max-width: 800px;
-                margin-top: 3rem;
             }
         `}</style>
 
