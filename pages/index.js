@@ -33,14 +33,7 @@ export default function Home() {
             .logo {
                 height: 10rem;
             }
-            .main {
-                padding: 5rem 0;
-                flex: 1;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-            }
+
             .footer {
                 width: 100%;
                 height: 100px;
@@ -97,6 +90,7 @@ export default function Home() {
                 box-sizing: border-box;
             }
         `}</style>
+      <br />
       <Footer />
     </div>
   )
