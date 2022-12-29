@@ -19,7 +19,7 @@ export default function Home() {
         </p>
         <h2 className="title">
             Coming Soon!
-        </h3>
+        </h2>
 
         <style jsx>{`
             .container {
