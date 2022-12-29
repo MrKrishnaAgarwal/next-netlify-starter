@@ -17,7 +17,7 @@ export default function Home() {
         <p className="description">
             Student Street is your own platform to customize your career & contribute for the benefit of others.
         </p>
-        <h3 className="title2">
+        <h2 className="title">
             Coming Soon!
         </h3>
 
@@ -31,7 +31,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 20em;
+                height: 10em;
             }
             .main {
                 padding: 5rem 0;
@@ -82,12 +82,6 @@ export default function Home() {
                 padding: 0.75rem;
                 font-size: 1.1rem;
                 font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-            }
-
-            title2 {
-                margin: 0;
-                line-height: 1.15;
-                font-size: 2rem;
             }
 
         `}</style>
