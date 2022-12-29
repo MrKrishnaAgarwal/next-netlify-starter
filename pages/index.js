@@ -30,7 +30,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 100em;
+                height: 25em;
             }
             .main {
                 padding: 5rem 0;
