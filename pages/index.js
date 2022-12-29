@@ -31,7 +31,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 10em;
+                height: 10rem;
             }
             .main {
                 padding: 5rem 0;
@@ -65,7 +65,7 @@ export default function Home() {
             .title {
                 margin: 0;
                 line-height: 1.15;
-                font-size: 4rem;
+                font-size: 3rem;
             }
 
             .title,
