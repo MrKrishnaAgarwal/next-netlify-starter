@@ -31,7 +31,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 100em;
+                height: 20em;
             }
             .main {
                 padding: 5rem 0;
