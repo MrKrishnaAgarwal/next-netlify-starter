@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="https://synramtechnology.com/studentstreet/public/images/logo.png" />
       </Head>
         <img src="https://synramtechnology.com/studentstreet/public/images/logo.png" alt="Student Street Logo" className="logo" />
+        <br />
         <h2 className="title">
             Welcome to <a href="https://studentstreet.in">Student Street</a>
         </h2>
@@ -30,7 +31,7 @@ export default function Home() {
                 align-items: center;
             }
             .logo {
-                height: 10em;
+                height: 100em;
             }
             .main {
                 padding: 5rem 0;
@@ -53,7 +54,7 @@ export default function Home() {
                 text-decoration: none;
             }
             .title a {
-                color: #0070f3;
+                color: #f3ca00;
                 text-decoration: none;
             }
             .title a:hover,
@@ -64,7 +65,7 @@ export default function Home() {
             .title {
                 margin: 0;
                 line-height: 1.15;
-                font-size: 2rem;
+                font-size: 4rem;
             }
 
             .title,
@@ -82,6 +83,13 @@ export default function Home() {
                 font-size: 1.1rem;
                 font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
             }
+
+            title2 {
+                margin: 0;
+                line-height: 1.15;
+                font-size: 2rem;
+            }
+
         `}</style>
 
         <style jsx global>{`
