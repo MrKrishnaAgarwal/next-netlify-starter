@@ -5,9 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         Made for students by students
-        Copyright © 2022. All Rights Reserved.
-        
-        <b> Krishna Agarwal 
+        Copyright © 2022. All Rights Reserved Krishna Agarwal. 
       </footer>
     </>
   )
