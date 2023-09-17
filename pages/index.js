@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Student Street</title>
-        <link rel="icon" href="https://synramtechnology.com/studentstreet/public/images/logo.png" />
+        <link rel="icon" href="https://github.com/MrKrishnaAgarwal/next-netlify-starter/blob/main/pages/student%20street.jpg" />
       </Head>
         <img src="https://github.com/MrKrishnaAgarwal/next-netlify-starter/blob/main/pages/student%20street.jpg" alt="Student Street Logo" className="logo" />
         <br />
